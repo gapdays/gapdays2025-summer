@@ -7,6 +7,8 @@ title: Home
 
 ## {{ site.description }}<br> {{ site.location }}
 
+**CAUTION: THIS IS A PREVIEW AND THINGS ARE NOT FINAL YET**
+
 ## GAP Days in general
 
 [GAP](https://www.gap-system.org/) Days are meetings where developers and users
