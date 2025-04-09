@@ -7,7 +7,7 @@ title: Home
 
 ## {{ site.description }}<br> {{ site.location }}
 
-**CAUTION: THIS IS A PREVIEW AND THINGS ARE NOT FINAL YET**
+**<p style="color:red;">CAUTION: THIS IS A PREVIEW AND THINGS ARE NOT FINAL YET</p>**
 
 ## GAP Days in general
 
