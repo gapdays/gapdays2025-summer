@@ -7,7 +7,7 @@ title: Home
 
 ## {{ site.description }}<br> {{ site.location }}
 
-**<p style="color:red;">CAUTION: THIS IS A PREVIEW AND THINGS ARE NOT FINAL YET</p>**
+<p style="color:red; font-style: italic;">CAUTION: THIS IS A PREVIEW AND THINGS ARE NOT FINAL YET</p>
 
 ## GAP Days in general
 
