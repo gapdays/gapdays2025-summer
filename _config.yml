@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'GAP Days Summer 2025'
+tagline:          'A workshop for GAP developers and users'
+description:      '25-29 August 2025'
+location:         'University of Primorska, Koper, Slovenia'
+url:              https://www.gapdays.de
+baseurl:          /gapdays2025-summer
+email:            gapdays2025-summer@gapdays.de
+
+exclude: 
+    - "LICENSE.hyde.md"
+    - "README.hyde.md"
+    - "TODO.md"
+    - "program.aux"
+    - "program.log"
+    - "program.out"
+    - "program.tex"
+    - "misc"

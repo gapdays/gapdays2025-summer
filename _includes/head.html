@@ -1,0 +1,41 @@
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.title | strip_html }} &middot; {{ site.tagline }}
+    {% else %}
+      {{ page.title }} &middot; {{ site.title | strip_html }}
+    {% endif %}
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/poole.css?version=1">
+  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/syntax.css?version=1">
+  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/hyde.css?version=1">
+  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/forms.css?version=1">
+  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/fonts.css?version=1">
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.ico">
+
+  <!-- MathJax -->
+  <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex: {
+      packages: ['base', 'ams']
+    },
+    loader: {
+      load: ['ui/menu', '[tex]/ams']
+    }
+  });
+  </script>
+  <script type="text/javascript" id="MathJax-script" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+  </script>
+
+</head>
