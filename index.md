@@ -60,6 +60,12 @@ The schedule can be found on [the program page]({{ site.baseurl }}/program).
 {{site.title}} is organised by
 
 * TODO
+* <!-- 
+* [Rhys Evans]()
+* [Michel Lavrauw](https://osebje.famnit.upr.si/~michel.lavrauw/)
+* [Russ Woodroofe](https://osebje.famnit.upr.si/~russ.woodroofe/)
+ -->
+
 <!-- 
 * [Philippe Cara](https://wids.research.vub.be/nl/philippe-cara)
 * [Jan De Beule](https://wids.research.vub.be/en/jan-de-beule)
