@@ -34,6 +34,7 @@ Please visit the [topics page]({{ site.baseurl }}/topics) for details.
 -->
 
 The GAP Days Summer 2025 will be the first edition in Koper, Slovenia!
+
 <!--
 Since this is the first edition on Belgian soil, the organizers would like 
 to include a number of minicourses on a diverse range of mathematical topics, 

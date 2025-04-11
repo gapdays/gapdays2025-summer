@@ -12,7 +12,6 @@ at the [University of Primorska](https://www.upr.si/).
 The meeting takes place in the Department TODO
 
 <!--
-
 of Mathematics and Data Science, which is located in Building G, sixth floor, on the [Main Campus of the Vrije Universiteit Brussel](https://www.vub.be/en/about-vub/faculties-institutes-and-campuses/our-campuses/vub-main-campus-brussels):
 
 Pleinlaan 2<br>
@@ -23,7 +22,6 @@ The conference room will be lecture room 6G.52. This room is equipped with black
 -->
 
 <!--
-
 [University website with travel suggestions.](https://rptu.de/en/routes-and-means-of-transport).
 
  48 in floor 4 (which is the second above ground...)

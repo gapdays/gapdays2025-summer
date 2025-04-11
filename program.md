@@ -15,10 +15,10 @@ mathematics related to GAP, and provide some exercises for the students in
 parallel with working sessions for developpers. 
 
 <!--
-But we are looking for more talks, so please <a href="mailto:{{site.email}}">contact us via email</a> and let us know if you would like to give a talk about your research! We welcome talks about computational mathematics research, which utilised GAP.-->
+But we are looking for more talks, so please <a href="mailto:{{site.email}}">contact us via email</a> and let us know if you would like to give a talk about your research! We welcome talks about computational mathematics research, which utilised GAP.
+-->
 
 <!--
-
 ## Minicourses
 
 - **Minicourse 1 by Ilaria Colazzo**
