@@ -27,13 +27,14 @@ Please visit [gapdays.de](https://www.gapdays.de) for a list of all GAP Days.
 
 ## {{ site.title }}
 
-<!-- 
+<!--
 The focus of these GAP Days will be on the GAP Package distribution
 and its infrastructure.
 Please visit the [topics page]({{ site.baseurl }}/topics) for details.
- -->
+-->
 
 The GAP Days Summer 2025 will be the first edition in Koper, Slovenia!
+
 <!--
 Since this is the first edition on Belgian soil, the organizers would like 
 to include a number of minicourses on a diverse range of mathematical topics, 
@@ -60,11 +61,12 @@ The schedule can be found on [the program page]({{ site.baseurl }}/program).
 {{site.title}} is organised by
 
 * TODO
-<!-- 
+
+<!--
 * [Philippe Cara](https://wids.research.vub.be/nl/philippe-cara)
 * [Jan De Beule](https://wids.research.vub.be/en/jan-de-beule)
 * [Leandro Vendramin](https://leandrovendramin.org)
- -->
+-->
 
 ## Registration
 
@@ -76,9 +78,10 @@ For registration use the form on [the registration page]({{ site.baseurl }}/regi
 ## Sponsors
 
 TODO
-<!-- 
+
+<!--
 This workshop is supported by the Research Foundation Flanders (Belgium) (FWO) and the Vrije Universiteit Brussel (VUB).
- -->
+-->
 
 ## <a name="contact"></a> Contact
 
