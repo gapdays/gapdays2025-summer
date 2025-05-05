@@ -121,6 +121,6 @@ The schedule is subject to further changes.
   - 11:30 Minicourse Michel Lavrauw: exercises 3 / Parallel: working session for developers
   - 12:30 *Lunch break*
   - 13:30 working session for developers
-<!-- - 14:30 Minicourse Michel Lavrauw: exercises 3 / Parallel: working session for developers -->
+  - 14:30 Minicourse Michel Lavrauw: exercises 3 / Parallel: working session for developers 
   - 15:00 coffee and closing
 -->
