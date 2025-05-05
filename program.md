@@ -57,6 +57,7 @@ communicate what we plan to work on, and what we have worked on, respectively. T
 and two hours of exercises in parallel with working sessions. 
 
 The schedule is subject to further changes. 
+<!--
 - **Monday**
 
   - 9:30 Registration, Morning coffee, Welcome and opening
@@ -122,3 +123,4 @@ The schedule is subject to further changes.
   - 13:30 working session for developers
 <!-- - 14:30 Minicourse Michel Lavrauw: exercises 3 / Parallel: working session for developers -->
   - 15:00 coffee and closing
+-->
