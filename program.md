@@ -15,9 +15,10 @@ mathematics related to GAP, and provide some exercises for the students in
 parallel with working sessions for developpers. 
 
 <!--
-But we are looking for more talks, so please <a href="mailto:{{site.email}}">contact us via email</a> and let us know if you would like to give a talk about your research! We welcome talks about computational mathematics research, which utilised GAP.-->
-<!-- 
+But we are looking for more talks, so please <a href="mailto:{{site.email}}">contact us via email</a> and let us know if you would like to give a talk about your research! We welcome talks about computational mathematics research, which utilised GAP.
+-->
 
+<!--
 ## Minicourses
 
 - **Minicourse 1 by Ilaria Colazzo**
@@ -46,8 +47,7 @@ Topics: Matrix groups, group homomorphisms, and automorphism groups, with comput
 2. Coding theory in GAP (guava package)
 
 3. Incidence geometries and substructure (FinInG package)
- -->
-
+-->
 
 ## Detailed schedule
 
@@ -120,5 +120,5 @@ The schedule is subject to further changes.
   - 11:30 Minicourse Michel Lavrauw: exercises 3 / Parallel: working session for developers
   - 12:30 *Lunch break*
   - 13:30 working session for developers
-<!--  - 14:30 Minicourse Michel Lavrauw: exercises 3 / Parallel: working session for developers -->
+<!-- - 14:30 Minicourse Michel Lavrauw: exercises 3 / Parallel: working session for developers -->
   - 15:00 coffee and closing
