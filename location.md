@@ -25,8 +25,12 @@ Belgium
 The conference room will be lecture room 6G.52. This room is equipped with blackboard and beamer with hdmi connection. Coffee breaks will be held in room 6G.60. Furthermore, three smaller breakout rooms are available for the conference in the department as well. 
 -->
 
-Koper has several nearby airports.  Trieste (TRS) is the closest; Ljubljana (LJU) is nearly as close and sometimes better connected.  Venice Marco Polo (VCE) is a major international airport, and is only about 2 hours away by shuttle.  Other airports that may be worth looking at include Pula (PUY, regional airport), Venice Treviso (TSF, regional airport), Zagreb (ZAG, international airport).  All of these airports have service from the [GoOpti shuttle service ](https://www.goopti.com/en/); it is a good idea to book a GoOpti shuttle at least two weeks ahead.<br>
-More advice on getting to Koper can be found on the webpage for the [12th PhD Summer School in Discrete Mathematics](https://conferences.famnit.upr.si/event/33/page/290-getting-to-koper) that will be held shortly after GAP Days.
+# Getting there
+Koper has several nearby airports.  Trieste (TRS) is the closest; Ljubljana (LJU) is nearly as close and sometimes better connected.  Venice Marco Polo (VCE) is a major international airport, and is only about 2 hours away by shuttle.  Other airports that may be worth looking at include Pula (PUY, regional airport), Venice Treviso (TSF, regional airport), Zagreb (ZAG, international airport).  All of these airports have service from the [GoOpti shuttle service ](https://www.goopti.com/en/); it is a good idea to book a GoOpti shuttle at least two weeks ahead.
+
+There are a few Flixbuses that go directly to Koper.  By train, you are probably best off to travel to Trieste or Ljubljana, and take a bus from there.  Busses are usually quicker and more frequent than trains inside of Slovenia.
+
+More advice on getting to Koper can be found on the webpage for the [12th PhD Summer School in Discrete Mathematics](https://conferences.famnit.upr.si/event/33/page/290-getting-to-koper), to be held shortly after GAP Days.
 
 <!--
 [University website with travel suggestions.](https://rptu.de/en/routes-and-means-of-transport).
@@ -39,8 +43,11 @@ More advice on getting to Koper can be found on the webpage for the [12th PhD Su
 -->
 
 ## Accommodation
+[Hotel Vodišek](https://www.hotel-vodisek.com/web/en/home/) and [Hotel Capris Capodistria](https://hotel-capodistria.com/) are sister hotels, located between the bus / train station and the center, approximately a 15 minute walk from the conference venue.
 
-TODO: hints on finding accomodation
+[Hotel Grand Koper](https://www.grandkoper.com/) is a five star hotel, about 5-10 minute walk from the conference venue.
+
+Apartments or rooms are sometimes available on Booking.com / Airbnb / VRBO.
 
 <!--
 ## Restaurants
