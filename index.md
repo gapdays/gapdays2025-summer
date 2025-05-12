@@ -60,11 +60,9 @@ The schedule can be found on [the program page]({{ site.baseurl }}/program).
 
 {{site.title}} is organised by
 
-<ul>
-  <li><a href="https://rhysje00.github.io">Rhys Evans</a></li>
-  <li><a href="https://mlavrauw.github.io">Michel Lavrauw</a></li>
-  <li><a href="https://osebje.famnit.upr.si/~russ.woodroofe/">Russ Woodroofe</a></li>
-</ul>
+* [Rhys Evans](https://rhysje00.github.io)
+* [Michel Lavrauw](https://mlavrauw.github.io)
+* [Russ Woodroofe](https://osebje.famnit.upr.si/~russ.woodroofe/)
 
 ## Registration
 
