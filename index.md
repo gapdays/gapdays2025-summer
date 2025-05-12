@@ -70,13 +70,12 @@ The schedule can be found on [the program page]({{ site.baseurl }}/program).
 Information about the exact location can be found on [the location page]({{ site.baseurl }}/location).
 For registration use the form on [the registration page]({{ site.baseurl }}/registration).
 
-
+<!--
 ## Sponsors
 
 TODO
 
-<!--
-This workshop is supported by the Research Foundation Flanders (Belgium) (FWO) and the Vrije Universiteit Brussel (VUB).
+This workshop is supported by ***
 -->
 
 ## <a name="contact"></a> Contact
