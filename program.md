@@ -3,7 +3,9 @@ layout: page
 title: Program
 ---
 
+<!-- 
 <p style="color:red; font-style: italic;">CAUTION: THIS IS A PREVIEW AND THINGS ARE NOT FINAL YET</p>
+-->
 
 * __Start:__ Monday 25 August 2025 <!-- , 9:00 UTC -->
 * __Finish:__ Friday 29 August 2025
@@ -49,6 +51,7 @@ Topics: Matrix groups, group homomorphisms, and automorphism groups, with comput
 3. Incidence geometries and substructure (FinInG package)
 -->
 
+<!--
 ## Detailed schedule
 
 We will open with a meeting at Monday morning at 9:45. Around 10:00 we coordinate plans for the week,
@@ -57,6 +60,8 @@ communicate what we plan to work on, and what we have worked on, respectively. T
 and two hours of exercises in parallel with working sessions. 
 
 The schedule is subject to further changes. 
+-->
+
 <!--
 - **Monday**
 
