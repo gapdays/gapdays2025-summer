@@ -5,7 +5,9 @@ title: Location
 These GAP Days will take place in Koper (Slovenia),
 at the [University of Primorska](https://www.upr.si/).
 
+<!--
 <p style="color:red; font-style: italic;">CAUTION: THIS IS A PREVIEW AND THINGS ARE NOT FINAL YET</p>
+-->
 
 ## Address
 
