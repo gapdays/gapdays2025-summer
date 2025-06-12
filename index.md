@@ -60,7 +60,7 @@ algorithmic group theory in a relaxed and friendly atmosphere.
 
 The schedule can be found on [the program page]({{ site.baseurl }}/program).
 
-{{site.title}} is organised by
+{{site.title}} is organised through the University of Primorska and the University of Ljubljana by
 
 * [Rhys Evans](https://rhysje00.github.io)
 * [Michel Lavrauw](https://mlavrauw.github.io)
@@ -69,13 +69,14 @@ The schedule can be found on [the program page]({{ site.baseurl }}/program).
 ## Registration
 
 {{site.title}} will take place at {{ site.location }}.
-Information about the exact location can be found on [the location page]({{ site.baseurl }}/location).
+Information about the exact location can be found on [the location page]({{ site.baseurl }}/location). 
 For registration use the form on [the registration page]({{ site.baseurl }}/registration).
 
 <!--
 ## Sponsors
 
 TODO
+acknowledge Russ's grant, Primož's project
 
 This workshop is supported by ***
 -->
