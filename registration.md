@@ -33,7 +33,7 @@ To register please use [this form](https://forms.gle/cigDvp4dMNpHjCJv5).
 
 ### On funding
 We have some limited funding to support travel and accommodation costs
-(partially or fully) for students and early-career researchers. 
+(partially or fully) for students and early-career researchers, and/or for those with caring responsibilities. 
 If you do so, please send an email to <a href="mailto:{{site.email}}">{{site.email}}</a> containing the following information
 
 - provide an estimate of much support you expect to need, and
@@ -42,11 +42,11 @@ If you do so, please send an email to <a href="mailto:{{site.email}}">{{site.ema
   beneficial to the GAP system and community.
 
 Initial decisions on whether we can grant support and how much will be made on or shortly after <b>31st&nbsp;July&nbsp;2025</b>.
-<!--
+<!-- 
 The deadline has now passed.
 We may be able to support later applications depending on the amount, so please don't hesitate to ask.
 -->
-<!--
+<!-- 
 ### Carer Fund
 <s>For these GAP Days we have also a small pot of funding to additionally support academics with caring responsibilities. 
 If you are needing to cover additional costs arising from attending GAP Days, please email us with the same information as above and please add 
