@@ -20,11 +20,10 @@ parallel with working sessions for developpers.
 But we are looking for more talks, so please <a href="mailto:{{site.email}}">contact us via email</a> and let us know if you would like to give a talk about your research! We welcome talks about computational mathematics research, which utilised GAP.
 -->
 
+## Minicourses and invited talks
+
+- **Minicourse 1: Introduction to GAP**
 <!--
-## Minicourses
-
-- **Minicourse 1 by Ilaria Colazzo**
-
 1. Introduction to GAP: Basics of Computation
 Topics: Basic arithmetic, programming, linear algebra, and an introduction to group theory concepts.
 
@@ -33,34 +32,29 @@ Topics: Permutation groups, cyclic groups, dihedral groups, symmetric groups, an
 
 3. Group Theory in GAP: Matrix Groups and Homomorphisms
 Topics: Matrix groups, group homomorphisms, and automorphism groups, with computational applications.
-
-- **Minicourse 2 by Bettina Eick**
-
-1. Finite p-groups and finite solvable groups in GAP
-
-2. Classification of finite groups (SmallGroups / GrpConst packages)
-
-3. The Lazard correspondence and Lie p-rings in GAP (LiePRing package)
-
-- **Minicourse 3 by Michel Lavrauw**
-
-1. Projective spaces over finite fields in GAP (FinInG package)
-
-2. Coding theory in GAP (guava package)
-
-3. Incidence geometries and substructure (FinInG package)
 -->
-
+- **Minicourse 2 by [James Mitchell](https://jdbm.me)**
 <!--
+1. Topic
+
+2. Topic
+
+3. Topic
+-->
+- **Special session in honor of [Leonard Soicher](https://webspace.maths.qmul.ac.uk/l.h.soicher/)**
+<!--
+talks from ***
+-->
+  
 ## Detailed schedule
 
-We will open with a meeting at Monday morning at 9:45. Around 10:00 we coordinate plans for the week,
-and follow a pattern of "Standups" each day at around 10:00 and 17:00, to
-communicate what we plan to work on, and what we have worked on, respectively. There will be two lectures of the minicourses per day 
-and two hours of exercises in parallel with working sessions. 
+We will open with a meeting at Monday morning at 9:45. Around 10:00 we will coordinate plans for the week.
+We will have "standups" each day at around 10:00 and 17:00, to
+communicate what we plan to work on, and what we have worked on, respectively.
+
+There will be a limited amount of room on the schedule for contributed talks.
 
 The schedule is subject to further changes. 
--->
 
 <!--
 - **Monday**
