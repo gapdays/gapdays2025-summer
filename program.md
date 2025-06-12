@@ -23,6 +23,7 @@ But we are looking for more talks, so please <a href="mailto:{{site.email}}">con
 ## Minicourses and invited talks
 
 - **Minicourse 1: Introduction to GAP**
+
 <!--
 1. Introduction to GAP: Basics of Computation
 Topics: Basic arithmetic, programming, linear algebra, and an introduction to group theory concepts.
@@ -33,7 +34,9 @@ Topics: Permutation groups, cyclic groups, dihedral groups, symmetric groups, an
 3. Group Theory in GAP: Matrix Groups and Homomorphisms
 Topics: Matrix groups, group homomorphisms, and automorphism groups, with computational applications.
 -->
+
 - **Minicourse 2 by [James Mitchell](https://jdbm.me)**
+
 <!--
 1. Topic
 
@@ -41,7 +44,9 @@ Topics: Matrix groups, group homomorphisms, and automorphism groups, with comput
 
 3. Topic
 -->
+
 - **Special session in honor of [Leonard Soicher](https://webspace.maths.qmul.ac.uk/l.h.soicher/)**
+
 <!--
 talks from ***
 -->
