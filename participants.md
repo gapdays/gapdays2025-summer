@@ -2,19 +2,18 @@
 layout: page
 title: Participants
 participants:
-  - {name: Michel Lavrauw, affiliation: "University of Primorska, Slovenia"}
-  - {name: Rhys Evans, affiliation: "IMFM, Slovenia"}
-  - {name: Russ Woodroofe, affiliation: "University of Primorska, Slovenia"}
-
-  - {name: Óscar Fernández Ayala, affiliation: "TU Braunschweig, Germany"}
-  - {name: Max Horn, affiliation: "RPTU Kaiserslautern-Landau University, Germany"}
   - {name: Bettina Eick, affiliation: "TU Braunschweig, Germany"}
   - {name: István Szöllősi, affiliation: "Babeș-Bolyai University, Romania"}
   - {name: Lukas Schnelle, affiliation: "RWTH Aachen University, Germany"}
+  - {name: Max Horn, affiliation: "RPTU Kaiserslautern-Landau University, Germany"}
   - {name: Meike Weiß, affiliation: "RWTH Aachen University, Germany"}
+  - {name: Michel Lavrauw, affiliation: "University of Primorska, Slovenia"}
+  - {name: Óscar Fernández Ayala, affiliation: "TU Braunschweig, Germany"}
+  - {name: Rhys Evans, affiliation: "IMFM, Slovenia"}
+  - {name: Russ Woodroofe, affiliation: "University of Primorska, Slovenia"}
 ---
 
-<ol>{% assign participants = page.participants | sort: "name" %}
+<ol>{% assign participants = page.participants %}
 {% for p in participants %}
   <li>
     <strong>{{ p.name }}</strong>
