@@ -4,6 +4,7 @@ title: Participants
 participants:
   - {name: Bettina Eick, affiliation: "TU Braunschweig, Germany"}
   - {name: István Szöllősi, affiliation: "Babeș-Bolyai University, Romania"}
+  - {name: Jan De Beule, affiliation: "Vrije Universiteit Brussel, Belgium"}
   - {name: Leonard Soicher, affiliation: "Queen Mary University of London, U.K."}
   - {name: Lukas Schnelle, affiliation: "RWTH Aachen University, Germany"}
   - {name: Max Horn, affiliation: "RPTU Kaiserslautern-Landau University, Germany"}
