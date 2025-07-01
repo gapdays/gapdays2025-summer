@@ -3,6 +3,7 @@ layout: page
 title: Participants
 participants:
   - {name: Bettina Eick, affiliation: "TU Braunschweig, Germany"}
+  - {name: Innocent Opara, affiliation: "Institute of Mathematics, Nigeria"}
   - {name: István Szöllősi, affiliation: "Babeș-Bolyai University, Romania"}
   - {name: Jan De Beule, affiliation: "Vrije Universiteit Brussel, Belgium"}
   - {name: Leonard Soicher, affiliation: "Queen Mary University of London, U.K."}
@@ -13,6 +14,7 @@ participants:
   - {name: Óscar Fernández Ayala, affiliation: "TU Braunschweig, Germany"}
   - {name: Rhys Evans, affiliation: "IMFM, Slovenia"}
   - {name: Russ Woodroofe, affiliation: "University of Primorska, Slovenia"}
+  - {name: Thomas Breuer, affiliation: "RWTH Aachen University, Germany"}
 ---
 
 <ol>{% assign participants = page.participants %}
