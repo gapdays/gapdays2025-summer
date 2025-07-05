@@ -4,6 +4,7 @@ title: Participants
 participants:
   - {name: Bettina Eick, affiliation: "TU Braunschweig, Germany"}
   - {name: Frank Lübeck, affiliation: "RWTH Aachen University, Germany"}
+  - {name: Henrik Schanze, affiliation: "TU Braunschweig, Germany"}
   - {name: Innocent Opara, affiliation: "Institute of Mathematics, Nigeria"}
   - {name: István Szöllősi, affiliation: "Babeș-Bolyai University, Romania"}
   - {name: Jan De Beule, affiliation: "Vrije Universiteit Brussel, Belgium"}
