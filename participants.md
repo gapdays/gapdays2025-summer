@@ -9,6 +9,7 @@ participants:
   - {name: Henrik Schanze, affiliation: "TU Braunschweig, Germany"}
   - {name: Innocent Opara, affiliation: "Institute of Mathematics, Nigeria"}
   - {name: István Szöllősi, affiliation: "Babeș-Bolyai University, Romania"}
+  - {name: James Mitchell, affiliation: "University of St Andrews, U.K."}
   - {name: Jan De Beule, affiliation: "Vrije Universiteit Brussel, Belgium"}
   - {name: Leonard Soicher, affiliation: "Queen Mary University of London, U.K."}
   - {name: Lukas Schnelle, affiliation: "RWTH Aachen University, Germany"}
