@@ -6,6 +6,7 @@ participants:
   - {name: Charles Leedham-Green (online), affiliation: "Queen Mary University of London, U.K."}
   - {name: Cheryl Praeger (online), affiliation: "University of Western Australia, Australia"}
   - {name: Frank Lübeck, affiliation: "RWTH Aachen University, Germany"}
+  - {name: George Savvoudis, affiliation: "University of Primorska, Slovenia"}
   - {name: Henrik Schanze, affiliation: "TU Braunschweig, Germany"}
   - {name: Innocent Opara, affiliation: "Institute of Mathematics, Nigeria"}
   - {name: István Szöllősi, affiliation: "Babeș-Bolyai University, Romania"}
