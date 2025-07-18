@@ -3,6 +3,7 @@ layout: page
 title: Participants
 participants:
   - {name: Bettina Eick, affiliation: "TU Braunschweig, Germany"}
+  - {name: Bojan Kuzma, affiliation: "University of Primorska, Slovenia"}
   - {name: Charles Leedham-Green (online), affiliation: "Queen Mary University of London, U.K."}
   - {name: Cheryl Praeger (online), affiliation: "University of Western Australia, Australia"}
   - {name: Frank Lübeck, affiliation: "RWTH Aachen University, Germany"}
@@ -22,6 +23,7 @@ participants:
   - {name: Russ Woodroofe, affiliation: "University of Primorska, Slovenia"}
   - {name: Sarah Rees, affiliation: "University of Newcastle, U.K."}
   - {name: Thomas Breuer, affiliation: "RWTH Aachen University, Germany"}
+  - {name: Vinay Wagh, affiliation: "IIT Guwahati, India"}
   - {name: Volkmar Welker, affiliation: "Philipps-Universität Marburg, Germany"}
 ---
 
