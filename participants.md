@@ -2,6 +2,7 @@
 layout: page
 title: Participants
 participants:
+  - {name: Andoni Zozaya, affiliation: "Public University of Navarra, Spain"} 
   - {name: Bettina Eick, affiliation: "TU Braunschweig, Germany"}
   - {name: Bojan Kuzma, affiliation: "University of Primorska, Slovenia"}
   - {name: Charles Leedham-Green (online), affiliation: "Queen Mary University of London, U.K."}
@@ -18,6 +19,7 @@ participants:
   - {name: Max Horn, affiliation: "RPTU Kaiserslautern-Landau University, Germany"}
   - {name: Meike Weiß, affiliation: "RWTH Aachen University, Germany"}
   - {name: Michel Lavrauw, affiliation: "University of Primorska, Slovenia"}
+  - {name: Milad Ahanjideh, affiliation: "University of Primorska, Slovenia"}
   - {name: Óscar Fernández Ayala, affiliation: "TU Braunschweig, Germany"}
   - {name: Rhys Evans, affiliation: "IMFM, Slovenia"}
   - {name: Russ Woodroofe, affiliation: "University of Primorska, Slovenia"}
