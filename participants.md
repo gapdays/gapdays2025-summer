@@ -20,6 +20,7 @@ participants:
   - {name: Meike Weiß, affiliation: "RWTH Aachen University, Germany"}
   - {name: Michel Lavrauw, affiliation: "University of Primorska, Slovenia"}
   - {name: Milad Ahanjideh, affiliation: "University of Primorska, Slovenia"}
+  - {name: Neda Ahanjideh, affiliation: "Shahrekord University, Iran"}
   - {name: Óscar Fernández Ayala, affiliation: "TU Braunschweig, Germany"}
   - {name: Rhys Evans, affiliation: "IMFM, Slovenia"}
   - {name: Russ Woodroofe, affiliation: "University of Primorska, Slovenia"}
