@@ -24,8 +24,9 @@ participants:
   - {name: Óscar Fernández Ayala, affiliation: "TU Braunschweig, Germany"}
   - {name: Rhys Evans, affiliation: "IMFM, Slovenia"}
   - {name: Russ Woodroofe, affiliation: "University of Primorska, Slovenia"}
-  - {name: Seyyed Ali Mohammadiyeh, affiliation: "Department of Pure Mathematics, Faculty of Mathematical Sciences, University of Kashan, Kashan 87317-53153, I. R. Iran"}
   - {name: Sarah Rees, affiliation: "University of Newcastle, U.K."}
+  - {name: Seyyed Ali Mohammadiyeh, affiliation: "Department of Pure Mathematics, Faculty of Mathematical Sciences, University of Kashan, Kashan 87317-53153, I. R. Iran"}
+  - {name: Timo Velten, affiliation: "TU Braunschweig, Germany"}
   - {name: Thomas Breuer, affiliation: "RWTH Aachen University, Germany"}
   - {name: Vinay Wagh, affiliation: "IIT Guwahati, India"}
   - {name: Volkmar Welker, affiliation: "Philipps-Universität Marburg, Germany"}
