@@ -22,7 +22,7 @@ But we are looking for more talks, so please <a href="mailto:{{site.email}}">con
 
 ## Minicourses and invited talks
 
-- **Minicourse 1: Introduction to GAP**
+- **Minicourse 1 by Lukas Schnelle and Meike Weiß: Introduction to GAP**
 
 <!--
 1. Introduction to GAP: Basics of Computation
@@ -67,11 +67,11 @@ The schedule is subject to further changes.
   - 9:00 Welcome and opening
   - 9:30 Stand up and technical discussion
   - 9:45 Minicourse 1: lecture 1
-  - 10:45 *Coffee break*
+  - 10:35 *Coffee break*
   - 11:00 Minicourse 1: exercises 1 / Parallel: working session for developers
   - 12:00 *Lunch break*
   - 14:00 Minicourse 1: lecture 2
-  - 15.00 *Coffee break*
+  - 14.50 *Coffee break*
   - 15:15 Minicourse 1: exercises 2 / Parallel: working session for developers
   - 16:15 Discussion
   - 17:00 Stand up: Results from work sessions
@@ -80,11 +80,11 @@ The schedule is subject to further changes.
 
   - 9:30 Stand up and technical discussion
   - 9:45 Minicourse 1: lecture 3
-  - 10:45 *Coffee break*
+  - 10:35 *Coffee break*
   - 11:00 Minicourse 1: exercises 3 / Parallel: working session for developers
   - 12:00 *Lunch break*
   - 14:00 Minicourse 2: lecture 1
-  - 15.00 *Coffee break*
+  - 14.50 *Coffee break*
   - 15:15 Minicourse 2: exercises 1 / Parallel: working session for developers
   - 16:15 Contributed Talks
   - 17:00 Stand up: Results from work sessions
@@ -93,11 +93,11 @@ The schedule is subject to further changes.
 
   - 9:30 Stand up and technical discussion
   - 9:45 Minicourse 2: lecture 2
-  - 10:45 *Coffee break*
+  - 10:35 *Coffee break*
   - 11:00 Minicourse 2: exercises 2 / Parallel: working session for developers
   - 12:00 *Lunch break*
   - 14:00 Minicourse 2: lecture 3
-  - 15.00 *Coffee break*
+  - 14.50 *Coffee break*
   - 15:15 Minicourse 2: exercises 3 / Parallel: working session for developers
   - 16:15 Contributed Talks
   - 17:00 Stand up: Results from work sessions
@@ -105,8 +105,8 @@ The schedule is subject to further changes.
 - **Thursday**
 
   - 9:30 Stand up and technical discussion
-  - 10:00 Contributed talks
-  - 10:45 *Coffee break*
+  - 9:45 Contributed talks
+  - 10:35 *Coffee break*
   - 11:00 Working session for developers
   - 12:00 *Lunch break*
   - 13:00 **Session in honour of Leonard Soicher**
@@ -123,8 +123,8 @@ The schedule is subject to further changes.
 - **Friday**
 
   - 9:30 Stand up and technical discussion
-  - 10:00 Contributed talks
-  - 10:45 *Coffee break*
+  - 9:45 Contributed talks
+  - 10:35 *Coffee break*
   - 11:00 Working session for developers
   - 12:00 *Lunch break*
   - 14:00 Working session for developers
