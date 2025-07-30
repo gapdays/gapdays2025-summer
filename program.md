@@ -22,7 +22,8 @@ But we are looking for more talks, so please <a href="mailto:{{site.email}}">con
 
 ## Minicourses and invited talks
 
-- **Minicourse 1 by Lukas Schnelle and Meike Weiß: Introduction to GAP**
+- **Minicourse 1: Introduction to GAP  
+        by [Lukas Schnelle](https://lukasschnelle.de/) and [Meike Weiß](https://www.art.rwth-aachen.de/cms/MATHB/Der-Lehrstuhl/Team/Wissenschaftliche-Beschaeftigte/~bdqzeo/Meike-Weiss/lidx/1/)**
 
 <!--
 1. Introduction to GAP: Basics of Computation
