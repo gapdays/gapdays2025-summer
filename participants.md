@@ -21,6 +21,7 @@ participants:
   - {name: Michel Lavrauw, affiliation: "University of Primorska, Slovenia"}
   - {name: Mike Ogiugo, affiliation: "Yaba College of Technology, Nigeria"}
   - {name: Milad Ahanjideh, affiliation: "University of Primorska, Slovenia"}
+  - {name: Morgan Rodgers, affiliation: "RPTU Kaiserslautern-Landau University, Germany"}
   - {name: Neda Ahanjideh, affiliation: "Shahrekord University, Iran"}
   - {name: Nora Harrach, affiliation: "Eötvös Loránd University, Hungary"}
   - {name: Óscar Fernández Ayala, affiliation: "TU Braunschweig, Germany"}
