@@ -10,6 +10,7 @@ participants:
   - {name: Cheryl Praeger (online), affiliation: "University of Western Australia, Australia"}
   - {name: Frank Lübeck, affiliation: "RWTH Aachen University, Germany"}
   - {name: George Savvoudis, affiliation: "University of Primorska, Slovenia"}
+  - {name: Giusy Monzillo, affiliation: "University of Primorska, Slovenia"}
   - {name: Henrik Schanze, affiliation: "TU Braunschweig, Germany"}
   - {name: Innocent Opara, affiliation: "Institute of Mathematics, Nigeria"}
   - {name: István Szöllősi, affiliation: "Babeș-Bolyai University, Romania"}
@@ -25,6 +26,7 @@ participants:
   - {name: Morgan Rodgers, affiliation: "RPTU Kaiserslautern-Landau University, Germany"}
   - {name: Neda Ahanjideh, affiliation: "Shahrekord University, Iran"}
   - {name: Nora Harrach, affiliation: "Eötvös Loránd University, Hungary"}
+  - {name: Olexandr Konovalov, affiliation: "University of St Andrews, U.K."}
   - {name: Óscar Fernández Ayala, affiliation: "TU Braunschweig, Germany"}
   - {name: Rhys Evans, affiliation: "IMFM, Slovenia"}
   - {name: Russ Woodroofe, affiliation: "University of Primorska, Slovenia"}
