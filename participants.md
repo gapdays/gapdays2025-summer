@@ -4,6 +4,7 @@ title: Participants
 participants:
   - {name: Andoni Zozaya, affiliation: "Public University of Navarra, Spain"}
   - {name: Anton Betten, affiliation: "Kuwait University, Kuwait"}
+  - {name: Antonio Montero, affiliation: "University of Ljubljana, Slovenia"}
   - {name: Bettina Eick, affiliation: "TU Braunschweig, Germany"}
   - {name: Bojan Kuzma, affiliation: "University of Primorska, Slovenia"}
   - {name: Charles Leedham-Green (online), affiliation: "Queen Mary University of London, U.K."}
