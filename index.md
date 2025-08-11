@@ -13,7 +13,8 @@ title: Home
 
 ## GAP Days in general
 
-[GAP](https://www.gap-system.org/) Days are meetings where developers and users
+[GAP](https://www.gap-system.org/) is a system for computational discrete algebra.
+GAP Days are meetings where developers and users
 with GAP programming experience are invited to discuss, influence, and
 contribute to the future development of GAP. To streamline each meeting, the
 organisers usually suggest a few main topics to work on during the week.
