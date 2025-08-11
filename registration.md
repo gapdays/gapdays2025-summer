@@ -32,7 +32,7 @@ To register please use [this form](https://forms.gle/cigDvp4dMNpHjCJv5).
 
 
 ### On funding
-We have some limited funding to support travel and accommodation costs
+<!-- We have some limited funding to support travel and accommodation costs
 (partially or fully) for students and early-career researchers, and/or for those with caring responsibilities. 
 If you do so, please send an email to <a href="mailto:{{site.email}}">{{site.email}}</a> containing the following information
 
@@ -41,11 +41,10 @@ If you do so, please send an email to <a href="mailto:{{site.email}}">{{site.ema
   your visit and, if applicable, whether and how your visit would be
   beneficial to the GAP system and community.
 
-Initial decisions on whether we can grant support and how much will be made on or shortly after <b>31st&nbsp;July&nbsp;2025</b>.
-<!-- 
-The deadline has now passed.
-We may be able to support later applications depending on the amount, so please don't hesitate to ask.
--->
+Initial decisions on whether we can grant support and how much will be made on or shortly after <b>31st&nbsp;July&nbsp;2025</b>. -->
+The funding deadline has now passed.
+<!-- We may be able to support later applications depending on the amount, so please don't hesitate to ask. -->
+
 ### Questions?
 
 <p>
