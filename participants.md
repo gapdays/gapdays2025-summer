@@ -9,6 +9,7 @@ participants:
   - {name: Bojan Kuzma, affiliation: "University of Primorska, Slovenia"}
   - {name: Charles Leedham-Green (online), affiliation: "Queen Mary University of London, U.K."}
   - {name: Cheryl Praeger (online), affiliation: "University of Western Australia, Australia"}
+  - {name: Dean Crnković, affiliation: "University of Rijeka, Croatia"}
   - {name: Frank Lübeck, affiliation: "RWTH Aachen University, Germany"}
   - {name: George Savvoudis, affiliation: "University of Primorska, Slovenia"}
   - {name: Giusy Monzillo, affiliation: "University of Primorska, Slovenia"}
