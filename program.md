@@ -31,7 +31,7 @@ But we are looking for more talks, so please <a href="mailto:{{site.email}}">con
 
 3. GAP Packages and Libraries: Using existing GAP infrastructure
 
-- **Minicourse 2: Digraphs in GAP
+- **Minicourse 2: Digraphs in GAP  
         by [James Mitchell](https://jdbm.me)**
 
 1. What is Digraphs? Overview + capabilities
