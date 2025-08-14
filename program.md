@@ -25,20 +25,20 @@ But we are looking for more talks, so please <a href="mailto:{{site.email}}">con
 - **Minicourse 1: Introduction to GAP  
         by [Lukas Schnelle](https://lukasschnelle.de/) and [Meike Weiß](https://www.art.rwth-aachen.de/cms/MATHB/Der-Lehrstuhl/Team/Wissenschaftliche-Beschaeftigte/~bdqzeo/Meike-Weiss/lidx/1/)**
 
-    1. Getting started in GAP 
+1. Getting started in GAP 
 
-    2. Programming in GAP: Working on problems from scratch
+2. Programming in GAP: Working on problems from scratch
 
-    3. GAP Packages and Libraries: Using existing GAP infrastructure
+3. GAP Packages and Libraries: Using existing GAP infrastructure
 
 - **Minicourse 2: Digraphs in GAP  
         by [James Mitchell](https://jdbm.me)**
 
-    1. What is Digraphs? Overview + capabilities
+1. What is Digraphs? Overview + capabilities
         
-    2. Some examples of using Digraphs in mathematical research
+2. Some examples of using Digraphs in mathematical research
 
-    3. Getting involved, make a contribution
+3. Getting involved, make a contribution
 
 
 - **Special session in honor of [Leonard Soicher](https://webspace.maths.qmul.ac.uk/l.h.soicher/)**
