@@ -25,32 +25,31 @@ But we are looking for more talks, so please <a href="mailto:{{site.email}}">con
 - **Minicourse 1: Introduction to GAP  
         by [Lukas Schnelle](https://lukasschnelle.de/) and [Meike Weiß](https://www.art.rwth-aachen.de/cms/MATHB/Der-Lehrstuhl/Team/Wissenschaftliche-Beschaeftigte/~bdqzeo/Meike-Weiss/lidx/1/)**
 
-<!--
-1. Introduction to GAP: Basics of Computation
-Topics: Basic arithmetic, programming, linear algebra, and an introduction to group theory concepts.
+1. Getting started in GAP 
 
-2. Group Theory in GAP: Permutation and Finite Groups
-Topics: Permutation groups, cyclic groups, dihedral groups, symmetric groups, and alternating groups.
+2. Programming in GAP: Working on problems from scratch
 
-3. Group Theory in GAP: Matrix Groups and Homomorphisms
-Topics: Matrix groups, group homomorphisms, and automorphism groups, with computational applications.
--->
+3. GAP Packages and Libraries: Using existing GAP infrastructure
 
-- **Minicourse 2 by [James Mitchell](https://jdbm.me)**
+- **Minicourse 2: Digraphs in GAP
+        by [James Mitchell](https://jdbm.me)**
 
-<!--
-1. Topic
+1. What is Digraphs? Overview + capabilities
+        
+2. Some examples of using Digraphs in mathematical research
 
-2. Topic
+3. Getting involved, make a contribution
 
-3. Topic
--->
 
 - **Special session in honor of [Leonard Soicher](https://webspace.maths.qmul.ac.uk/l.h.soicher/)**
 
-<!--
-talks from ***
--->
+    - Cheryl Praeger (online)
+    - Charles Leedham-Green (online)
+    - Sarah Rees
+    - Rhys Evans
+    - Frank Lübeck
+    - Bettina Eick
+
   
 ## Detailed schedule
 
@@ -67,59 +66,64 @@ The schedule is subject to further changes.
 
   - 9:00 Welcome and opening
   - 9:30 Stand up and technical discussion
-  - 9:45 Minicourse 1: lecture 1
+  - 9:45 Minicourse 1: Session 1A - Getting started in GAP
   - 10:35 *Coffee break*
-  - 11:00 Minicourse 1: exercises 1 / Parallel: working session for developers
+  - 11:00 Minicourse 1: Session 1B - Getting started in GAP / Parallel: working session for developers
   - 12:00 *Lunch break*
-  - 14:00 Minicourse 1: lecture 2
+  - 14:00 Minicourse 1: Session 2A - Programming in GAP: Working on problems from scratch
   - 14.50 *Coffee break*
-  - 15:15 Minicourse 1: exercises 2 / Parallel: working session for developers
+  - 15:15 Minicourse 1: Session 2A - Programming in GAP: Working on problems from scratch / Parallel: working session for developers
   - 16:15 Discussion
   - 17:00 Stand up: Results from work sessions
 
 - **Tuesday**
 
   - 9:30 Stand up and technical discussion
-  - 9:45 Minicourse 1: lecture 3
+  - 9:45 Minicourse 1: Session 3A - GAP Packages and Libraries: Using existing GAP infrastructure
   - 10:35 *Coffee break*
-  - 11:00 Minicourse 1: exercises 3 / Parallel: working session for developers
+  - 11:00 Minicourse 1: Session 3A - GAP Packages and Libraries: Using existing GAP infrastructure / Parallel: working session for developers
   - 12:00 *Lunch break*
-  - 14:00 Minicourse 2: lecture 1
+  - 14:00 Minicourse 2: Session 1A - What is Digraphs? Overview + capabilities
   - 14.50 *Coffee break*
-  - 15:15 Minicourse 2: exercises 1 / Parallel: working session for developers
+  - 15:15 Minicourse 2: Session 1B - Getting started with Digraphs (exercises) / Parallel: working session for developers
   - 16:15 Contributed Talks
+    - 16:15 Talk: *"Computer assisted proof of the tree module property, using GAP and Clean"* (István Szöllősi)
+    - 16:40 Talk: *"TBA"* (Vinay Wagh)
   - 17:00 Stand up: Results from work sessions
 
 - **Wednesday**
 
   - 9:30 Stand up and technical discussion
-  - 9:45 Minicourse 2: lecture 2
+  - 9:45 Minicourse 2: Session 2A - Some examples of using Digraphs in mathematical research
   - 10:35 *Coffee break*
-  - 11:00 Minicourse 2: exercises 2 / Parallel: working session for developers
+  - 11:00 Minicourse 2: Session 2B - Exercises / Parallel: working session for developers
   - 12:00 *Lunch break*
-  - 14:00 Minicourse 2: lecture 3
+  - 14:00 Minicourse 2: Session 3A - Getting involved, make a contribution
   - 14.50 *Coffee break*
-  - 15:15 Minicourse 2: exercises 3 / Parallel: working session for developers
+  - 15:15 Minicourse 2: Session 3B - Exercises / Parallel: working session for developers
   - 16:15 Contributed Talks
+    - 16:15 Talk: *"What is new, and old, in Gap.app"* (Russ Woodroofe) 
   - 17:00 Stand up: Results from work sessions
 
 - **Thursday**
 
   - 9:30 Stand up and technical discussion
   - 9:45 Contributed talks
+    - 9:45 Talk: *"TBA"* (Seyyed Ali Mohammadiyeh) 
   - 10:35 *Coffee break*
   - 11:00 Working session for developers
   - 12:00 *Lunch break*
   - 13:00 **Session in honour of Leonard Soicher**
-    - 13:00-13:30 Talk: Cheryl Praeger (online)
-    - 13:45-14:15 Talk: Charles Leedham-Green (online)
+    - 13:00-13:30 Talk: *“Some of what I’ve learned from Leonard”* (Cheryl Praeger, online)
+    - 13:45-14:15 Talk: *"TBA"* (Charles Leedham-Green, online)
     - 14:15 Break
-    - 14:45-15:15 Talk: Sarah Rees
-    - 15:30-16:00 Talk: Rhys Evans
+    - 14:45-15:15 Talk: *"TBA"* (Sarah Rees)
+    - 15:30-16:00 Talk: *"TBA"* (Rhys Evans)
     - 16:00 *Coffee break*
-    - 16:30-17:00 Talk: Frank Lübeck
-    - 17:15-17:45 Talk: Bettina Eick
+    - 16:30-17:00 Talk: *"TBA"* (Frank Lübeck)
+    - 17:15-17:45 Talk: *"TBA"* (Bettina Eick)
   - 18:00 End of day
+  - 18:30 Social dinner
 
 - **Friday**
 
