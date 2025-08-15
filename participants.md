@@ -67,11 +67,24 @@ participants:
 <h2>Participants by Country</h2>
 <ul>
 {% assign grouped = page.participants | group_by: "country" %}
+{%- assign countries_with_counts = "" | split: "" -%}
 {% for country_group in grouped %}
   {% assign country_name = country_group.name %}
   {% assign participants_count = country_group.items | size %}
   {% assign country_emoji = country_group.items[0].country_emoji %}
-  <li>{{ country_emoji }} {{ country_name }}: {{ participants_count }} participant{% if participants_count > 1 %}s{% endif %}</li>
+  {% assign country_data = 
+      country_emoji | append: "||" | append: country_name | append: "||" | append: participants_count 
+  %}
+  {% assign countries_with_counts = countries_with_counts | push: country_data %}
+{% endfor %}
+{%- assign sorted = countries_with_counts | sort: "" -%}
+{%- assign sorted = sorted | reverse -%}
+{% for entry in sorted %}
+  {% assign parts = entry | split: "||" %}
+  {% assign emoji = parts[0] %}
+  {% assign name = parts[1] %}
+  {% assign count = parts[2] | plus: 0 %}
+  <li>{{ emoji }} {{ name }}: {{ count }} participant{% if count > 1 %}s{% endif %}</li>
 {% endfor %}
 </ul>
 
