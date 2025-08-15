@@ -64,27 +64,45 @@ participants:
 {% endfor %}
 </ol>
 
-<h2>Participants by Country</h2>
+<h2>
+  Participants by Country
+  ({% assign total = 0 %}{% for p in page.participants %}{% assign total = total | plus: 1 %}{% endfor %}{{ total }})
+</h2>
 <ul>
 {% assign grouped = page.participants | group_by: "country" %}
-{%- assign countries_with_counts = "" | split: "" -%}
-{% for country_group in grouped %}
-  {% assign country_name = country_group.name %}
-  {% assign participants_count = country_group.items | size %}
-  {% assign country_emoji = country_group.items[0].country_emoji %}
-  {% assign country_data = 
-      country_emoji | append: "||" | append: country_name | append: "||" | append: participants_count 
-  %}
-  {% assign countries_with_counts = countries_with_counts | push: country_data %}
-{% endfor %}
-{%- assign sorted = countries_with_counts | sort: "" -%}
-{%- assign sorted = sorted | reverse -%}
+
+{%- assign max_count = 0 -%}
+{%- for g in grouped -%}
+  {%- assign c = g.items | size -%}
+  {%- if c > max_count -%}{%- assign max_count = c -%}{%- endif -%}
+{%- endfor -%}
+{%- capture max_str -%}{{ max_count }}{%- endcapture -%}
+{%- assign width = max_str | size -%}
+
+{%- assign flat = "" | split: "" -%}
+{%- for g in grouped -%}
+  {%- assign c = g.items | size -%}
+  {%- capture c_str -%}{{ c }}{%- endcapture -%}
+  {%- assign c_len = c_str | size -%}
+  {%- assign zeros_to_add = width | minus: c_len -%}
+  {%- if zeros_to_add > 0 -%}
+    {%- capture zeros -%}{% for i in (1..zeros_to_add) %}0{% endfor %}{%- endcapture -%}
+  {%- else -%}
+    {%- assign zeros = "" -%}
+  {%- endif -%}
+  {%- assign padded = zeros | append: c_str -%}
+  {%- assign entry = padded | append: "||" | append: g.items[0].country_emoji | append: "||" | append: g.name | append: "||" | append: c_str -%}
+  {%- assign flat = flat | push: entry -%}
+{%- endfor -%}
+
+{%- assign sorted = flat | sort | reverse -%}
+
 {% for entry in sorted %}
-  {% assign parts = entry | split: "||" %}
-  {% assign emoji = parts[0] %}
-  {% assign name = parts[1] %}
-  {% assign count = parts[2] | plus: 0 %}
-  <li>{{ emoji }} {{ name }}: {{ count }} participant{% if count > 1 %}s{% endif %}</li>
+  {%- assign parts = entry | split: "||" -%}
+  {%- assign emoji = parts[1] -%}
+  {%- assign name = parts[2] -%}
+  {%- assign count = parts[3] -%}
+  <li>{{ emoji }} {{ name }}: {{ count }} participant{% if count | plus: 0 > 1 %}s{% endif %}</li>
 {% endfor %}
 </ul>
 
