@@ -66,19 +66,14 @@ participants:
 <h2>Participants by Country ({{ page.participants | size }})</h2>
 <ul>
   {% assign grouped = page.participants | group_by: "country" %}
-
   {% assign country_counts = "" | split: "" %}
-
   {% for g in grouped %}
     {% assign count = g.items | size %}
     {% capture padded_count %}{% if count < 10 %}0{% endif %}{{ count }}{% endcapture %}
     {% capture entry %}{{ padded_count }}||{{ g.items[0].country_emoji }}||{{ g.name }}{% endcapture %}
     {% assign country_counts = country_counts | push: entry %}
   {% endfor %}
-
-  {%- comment -%} Sort numerically descending by padded count {%- endcomment -%}
   {% assign sorted = country_counts | sort_natural | reverse %}
-
   {% for entry in sorted %}
     {% assign parts = entry | split: "||" %}
     {% assign count_num = parts[0] | plus: 0 %}
