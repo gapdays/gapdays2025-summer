@@ -86,7 +86,7 @@ The schedule is subject to further changes.
   - 15:15 Minicourse 2: Session 1B - Getting started with Digraphs (exercises) / Parallel: working session for developers
   - 16:15 Contributed Talks
     - 16:15 Talk: *"Computer assisted proof of the tree module property, using GAP and Clean"* (István Szöllősi)
-    - 16:40 Talk: *"TBA"* (Vinay Wagh)
+    - 16:40 Talk: *"OscarAICoder: Turning Mathematical Language into Computation"* (Vinay Wagh)
   - 17:00 Stand up: Results from work sessions
 
 - **Wednesday**
