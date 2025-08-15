@@ -31,7 +31,7 @@ But we are looking for more talks, so please <a href="mailto:{{site.email}}">con
 
 3. GAP Packages and Libraries: Using existing GAP infrastructure
 
-- **Minicourse 2: Digraphs in GAP  
+- **Minicourse 2: The Digraphs package for GAP - zero to hero  
         by [James Mitchell](https://jdbm.me)**
 
 1. What is Digraphs? Overview + capabilities
@@ -113,11 +113,11 @@ The schedule is subject to further changes.
     - 13:00-13:30 Talk: *“Some of what I’ve learned from Leonard”* (Cheryl Praeger, online)
     - 13:45-14:15 Talk: *"TBA"* (Charles Leedham-Green, online)
     - 14:15 Break
-    - 14:45-15:15 Talk: *"TBA"* (Sarah Rees)
-    - 15:30-16:00 Talk: *"TBA"* (Rhys Evans)
+    - 14:45-15:15 Talk: *"Developing a practical algorithm for GRAPE"* (Sarah Rees)
+    - 15:30-16:00 Talk: *"Orderly generation of generating sets"* (Rhys Evans)
     - 16:00 *Coffee break*
     - 16:30-17:00 Talk: *"TBA"* (Frank Lübeck)
-    - 17:15-17:45 Talk: *"TBA"* (Bettina Eick)
+    - 17:15-17:45 Talk: *"Some history"* (Bettina Eick)
   - 18:00 End of day
   - 18:30 Social dinner
 
