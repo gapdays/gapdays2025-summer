@@ -5,7 +5,7 @@ permalink: /abstracts/rees
 
 ## Sarah Rees
 
-### Developing a practical algorithm for GRAPE.
+### Developing a practical algorithm for GRAPE
 
 I'll talk about the one article I have written with Leonard, which develops theory due to Reidemeister that allows computation of 
 fundamental groups, finite covers and related objects, associated with combinatorial cell complexes,
