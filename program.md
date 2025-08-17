@@ -113,7 +113,7 @@ The schedule is subject to further changes.
     - 13:00-13:30 Talk: *“Some of what I’ve learned from Leonard”* (Cheryl Praeger, online)
     - 13:45-14:15 Talk: *"TBA"* (Charles Leedham-Green, online)
     - 14:15 Break
-    - 14:45-15:15 Talk: *"Developing a practical algorithm for GRAPE"* (Sarah Rees)
+    - 14:45-15:15 Talk: *"Developing a practical algorithm for GRAPE"* (Sarah Rees) ([abstract]({{ site.baseurl }}/abstracts/rees)
     - 15:30-16:00 Talk: *"Orderly generation of generating sets"* (Rhys Evans)
     - 16:00 *Coffee break*
     - 16:30-17:00 Talk: *"TBA"* (Frank Lübeck)
