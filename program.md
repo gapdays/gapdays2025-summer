@@ -116,7 +116,7 @@ The schedule is subject to further changes.
     - 14:45-15:15 Talk: *"Developing a practical algorithm for GRAPE"* (Sarah Rees) ([abstract]({{ site.baseurl }}/abstracts/rees)
     - 15:30-16:00 Talk: *"Orderly generation of generating sets"* (Rhys Evans)
     - 16:00 *Coffee break*
-    - 16:30-17:00 Talk: *"TBA"* (Frank Lübeck)
+    - 16:30-17:00 Talk: *"Permutation characters from parabolic subgroups and Green functions"* (Frank Lübeck) ([abstract]({{ site.baseurl }}/abstracts/lubeck)
     - 17:15-17:45 Talk: *"Some history"* (Bettina Eick)
   - 18:00 End of day
   - 18:30 Social dinner
