@@ -72,7 +72,7 @@ The schedule is subject to further changes.
   - 12:00 *Lunch break*
   - 14:00 Minicourse 1: Session 2A - Programming in GAP: Working on problems from scratch
   - 14.50 *Coffee break*
-  - 15:15 Minicourse 1: Session 2A - Programming in GAP: Working on problems from scratch / Parallel: working session for developers
+  - 15:15 Minicourse 1: Session 2B - Programming in GAP: Working on problems from scratch / Parallel: working session for developers
   - 16:15 Discussion
   - 17:00 Stand up: Results from work sessions
 
@@ -80,7 +80,7 @@ The schedule is subject to further changes.
   - 9:30 Stand up and technical discussion
   - 9:45 Minicourse 1: Session 3A - GAP Packages and Libraries: Using existing GAP infrastructure
   - 10:35 *Coffee break*
-  - 11:00 Minicourse 1: Session 3A - GAP Packages and Libraries: Using existing GAP infrastructure / Parallel: working session for developers
+  - 11:00 Minicourse 1: Session 3B - GAP Packages and Libraries: Using existing GAP infrastructure / Parallel: working session for developers
   - 12:00 *Lunch break*
   - 14:00 Minicourse 2: Session 1A - What is Digraphs? Overview + capabilities
   - 14.50 *Coffee break*
