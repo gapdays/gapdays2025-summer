@@ -108,7 +108,7 @@ The schedule is subject to further changes.
     - 9:45 Talk: *"TBA"* (Seyyed Ali Mohammadiyeh) 
   - 10:35 *Coffee break*
   - 11:00 Working session for developers
-  - 12:00 *Lunch break*
+  - 11:30 *Lunch break*
   - 13:00 **Session in honour of Leonard Soicher**
     - 13:00-13:30 Talk: *“Some of what I’ve learned from Leonard”* (Cheryl Praeger, online)
     - 13:45-14:15 Talk: *"TBA"* (Charles Leedham-Green, online)
