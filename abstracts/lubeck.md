@@ -16,4 +16,4 @@ Green functions of centralizers of semisimple elements are known.
 The other way round, we have computed values of such permutation characters
 by computations in the groups - and from this we could determine the Green
 functions in the last unknown cases (for exceptional groups of type
-$E_8(q)$).
+*E<sub>8</sub>(q)*).
