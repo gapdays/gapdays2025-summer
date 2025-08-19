@@ -43,12 +43,13 @@ But we are looking for more talks, so please <a href="mailto:{{site.email}}">con
 
 - **Special session in honor of [Leonard Soicher](https://webspace.maths.qmul.ac.uk/l.h.soicher/)**
 
-    - Cheryl Praeger (online)
-    - Charles Leedham-Green (online)
-    - Sarah Rees
-    - Rhys Evans
-    - Frank Lübeck
+  List of speakers:
     - Bettina Eick
+    - Charles Leedham-Green (online)
+    - Cheryl Praeger (online)
+    - Frank Lübeck
+    - Rhys Evans
+    - Sarah Rees
 
   
 ## Detailed schedule
