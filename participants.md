@@ -41,6 +41,7 @@ participants:
   - {name: Timo Velten, affiliation: "TU Braunschweig, Germany"}
   - {name: Vinay Wagh, affiliation: "IIT Guwahati, India"}
   - {name: Volkmar Welker, affiliation: "Philipps-Universität Marburg, Germany"}
+  - {name: Wilf Wilson}
 ---
 
 <ol>{% assign participants = page.participants %}
