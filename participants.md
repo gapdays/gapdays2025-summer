@@ -6,6 +6,7 @@ participants:
   - {name: Andrea Švob, affiliation: "University of Rijeka, Croatia"}
   - {name: Anton Betten, affiliation: "Kuwait University, Kuwait"}
   - {name: Antonio Montero, affiliation: "University of Ljubljana, Slovenia"}
+  - {name: Bernhard Böhmler, affiliation: "Leibniz University Hannover"}
   - {name: Bettina Eick, affiliation: "TU Braunschweig, Germany"}
   - {name: Bojan Kuzma, affiliation: "University of Primorska, Slovenia"}
   - {name: Charles Leedham-Green (online), affiliation: "Queen Mary University of London, U.K."}
