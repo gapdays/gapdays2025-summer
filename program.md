@@ -100,7 +100,8 @@ The schedule is subject to further changes.
   - 14.50 *Coffee break*
   - 15:15 Minicourse 2: Session 3B - Exercises / Parallel: working session for developers
   - 16:15 Contributed Talks
-    - 16:15 Talk: *"What is new, and old, in Gap.app"* (Russ Woodroofe) 
+    - 16:15 Talk: *"What is new, and old, in Gap.app"* (Russ Woodroofe)
+    - 16:40 Talk: *"Computing trivial source modules and their character tables using GAP"* (Bernhard Böhmler) ([abstract]({{ site.baseurl }}/abstracts/boehmler))
   - 17:00 Stand up: Results from work sessions
 
 - **Thursday**
