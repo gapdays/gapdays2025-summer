@@ -22,6 +22,7 @@ participants:
   - {name: Jan De Beule, affiliation: "Vrije Universiteit Brussel, Belgium"}
   - {name: Joseph Edwards, affiliation: "University of St Andrews, U.K."}
   - {name: Leonard Soicher, affiliation: "Queen Mary University of London, U.K."}
+  - {name: Leonid Ovchinnikov, affiliation: "University of Primorska, Slovenia"}
   - {name: Leyla Işık, affiliation: "University of Primorska, Slovenia"}
   - {name: Lukas Schnelle, affiliation: "RWTH Aachen University, Germany"}
   - {name: Max Horn, affiliation: "RPTU Kaiserslautern-Landau University, Germany"}
