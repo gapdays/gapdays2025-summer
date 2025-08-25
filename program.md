@@ -74,6 +74,7 @@ The schedule is subject to further changes.
   - 15:15 Minicourse 1: Session 2B - Programming in GAP: Working on problems from scratch / Parallel: working session for  developers [Exercises&nbsp;2]({{ site.baseurl }}/slides/introEx2.pdf)
   - 16:15 Discussion
   - 17:00 Stand up: Results from work sessions
+  - 20:30 Social event:  Informal pub evening "Medvedković seminar" at Rampin
 
 - **Tuesday**
   - 9:30 Stand up and technical discussion
