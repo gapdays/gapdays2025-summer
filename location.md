@@ -14,18 +14,15 @@ at the [University of Primorska](https://www.upr.si/).
 The meeting takes place in the Faculty of Mathematics, Natural Sciences and Information Technologies (FAMNIT).  The FAMNIT building is at the address Glagoljaška 8, and is in the old town center of Koper.
 
 Lectures and events will be held in the lecture room VP2, located on the first floor.<br>
-Coffee breaks will be held in TBA<br>
-Breakout rooms will be available TBA
+Coffee breaks will be held in the Avla hall, located on the ground floor<br>
+Breakout rooms will be TBA
 
-<!--
-of Mathematics and Data Science, which is located in Building G, sixth floor, on the [Main Campus of the Vrije Universiteit Brussel](https://www.vub.be/en/about-vub/faculties-institutes-and-campuses/our-campuses/vub-main-campus-brussels):
+Rooms are equipped both with whiteboards, and also with a projector / computer / hdmi connection.  Note that in VP2, the projector screen covers part (indeed, much) of the whiteboard when it is down.  
 
-Pleinlaan 2<br>
-B--1050 Brussel<br>
-Belgium
+## Eating
+The town center of Koper has many lunch / dinner options, as well as bakeries and grocery stores.
 
-The conference room will be lecture room 6G.52. This room is equipped with blackboard and beamer with hdmi connection. Coffee breaks will be held in room 6G.60. Furthermore, three smaller breakout rooms are available for the conference in the department as well. 
--->
+We have written a small [restaurant guide](https://osebje.famnit.upr.si/~russ.woodroofe/restaurants/).
 
 # Getting there
 Koper has several nearby airports.  Trieste (TRS) is the closest; Ljubljana (LJU) is nearly as close and sometimes better connected.  Venice Marco Polo (VCE) is a major international airport, and is only about 2 hours away by shuttle.  Other airports that may be worth looking at include Pula (PUY, regional airport), Venice Treviso (TSF, regional airport), Zagreb (ZAG, international airport).  All of these airports have service from the [GoOpti shuttle service ](https://www.goopti.com/en/); it is a good idea to book a GoOpti shuttle at least two weeks ahead.
