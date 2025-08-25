@@ -96,7 +96,7 @@ participants:
 {% endif %}
 
 <!--
-<h2>Conference photo</h2>
+## Conference photo
 <figure>
   <a href="{{ site.baseurl }}/public/conf_photo.jpg">
     <img 
