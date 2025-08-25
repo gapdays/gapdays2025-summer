@@ -74,7 +74,7 @@ The schedule is subject to further changes.
   - 15:15 Minicourse 1: Session 2B - Programming in GAP: Working on problems from scratch / Parallel: working session for  developers [Exercises&nbsp;2]({{ site.baseurl }}/slides/introEx2.pdf)
   - 16:15 Discussion
   - 17:00 Stand up: Results from work sessions
-  - 20:30 Social event:  Informal pub evening "Medvedković seminar" at Rampin
+  - 20:30 Social event:  Informal pub evening "Medvedković seminar" at <a href="https://www.google.com/maps/place/Rampin/@45.5456814,13.7285221,17z/data=!3m1!4b1!4m6!3m5!1s0x477b6896ba245549:0xcb74f8c2d64d432f!8m2!3d45.5456777!4d13.7311024!16s%2Fg%2F1hc2_r15q?entry=ttu">Rampin</a>
 
 - **Tuesday**
   - 9:30 Stand up and technical discussion
@@ -121,7 +121,7 @@ The schedule is subject to further changes.
     - 16:30-17:00 Talk: *"Permutation characters from parabolic subgroups and Green functions"* (Frank Lübeck) ([abstract]({{ site.baseurl }}/abstracts/lubeck))
     - 17:15-17:45 Talk: *"Some history"* (Bettina Eick)
   - 18:00 End of day
-  - 18:30 Social dinner
+  - 18:30 Social event: Reception
 
 - **Friday**
   - 9:30 Stand up and technical discussion
