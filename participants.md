@@ -102,7 +102,6 @@ participants:
     <img 
       src="{{ site.baseurl }}/public/conf_photo.jpg" 
       alt="Group photo of GAP Days Summer 2025 participants at University of Primorska, Koper, Slovenia, 25-29 August 2025" 
-      style="max-width:100%; height:auto;"
     />
   </a>
   <figcaption>
