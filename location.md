@@ -15,7 +15,7 @@ The meeting takes place in the Faculty of Mathematics, Natural Sciences and Info
 
 Lectures and events will be held in the lecture room VP2, located on the first floor.<br>
 Coffee breaks will be held in the Avla hall, located on the ground floor<br>
-Breakout rooms will be TBA
+Breakout rooms will be MP5 and MP6 on Monday/Thursday; MP2 and MP4 on Tuesday/Wednesday/Friday.  All are located on the second floor.
 
 Rooms are equipped both with whiteboards, and also with a projector / computer / hdmi connection.  Note that in VP2, the projector screen covers part (indeed, much) of the whiteboard when it is down.  
 
