@@ -6,6 +6,7 @@ participants:
   - {name: "Andrea Švob", affiliation: "University of Rijeka", country: "Croatia", country_emoji: "🇭🇷", online: false}
   - {name: "Anton Betten", affiliation: "Kuwait University", country: "Kuwait", country_emoji: "🇰🇼", online: false}
   - {name: "Antonio Montero", affiliation: "University of Ljubljana", country: "Slovenia", country_emoji: "🇸🇮", online: false}
+  - {name: "Bernhard Böhmler", affiliation: "Leibniz University Hannover", country: "Germany", country_emoji: "🇩🇪", online: false}
   - {name: "Bettina Eick", affiliation: "TU Braunschweig", country: "Germany", country_emoji: "🇩🇪", online: false}
   - {name: "Bojan Kuzma", affiliation: "University of Primorska", country: "Slovenia", country_emoji: "🇸🇮", online: false}
   - {name: "Charles Leedham-Green", affiliation: "Queen Mary University of London", country: "United Kingdom", country_emoji: "🇬🇧", online: true}
@@ -21,6 +22,7 @@ participants:
   - {name: "Jan De Beule", affiliation: "Vrije Universiteit Brussel", country: "Belgium", country_emoji: "🇧🇪", online: false}
   - {name: "Joseph Edwards", affiliation: "University of St Andrews", country: "United Kingdom", country_emoji: "🇬🇧", online: false}
   - {name: "Leonard Soicher", affiliation: "Queen Mary University of London", country: "United Kingdom", country_emoji: "🇬🇧", online: false}
+  - {name: "Leonid Ovchinnikov", affiliation: "University of Primorska", country: "Slovenia", country_emoji: "🇸🇮", online: false}
   - {name: "Leyla Işık", affiliation: "University of Primorska", country: "Slovenia", country_emoji: "🇸🇮", online: false}
   - {name: "Lukas Schnelle", affiliation: "RWTH Aachen University", country: "Germany", country_emoji: "🇩🇪", online: false}
   - {name: "Max Horn", affiliation: "RPTU Kaiserslautern-Landau University", country: "Germany", country_emoji: "🇩🇪", online: false}
@@ -41,6 +43,7 @@ participants:
   - {name: "Timo Velten", affiliation: "TU Braunschweig", country: "Germany", country_emoji: "🇩🇪", online: false}
   - {name: "Vinay Wagh", affiliation: "IIT Guwahati", country: "India", country_emoji: "🇮🇳", online: false}
   - {name: "Volkmar Welker", affiliation: "Philipps-Universität Marburg", country: "Germany", country_emoji: "🇩🇪", online: false}
+  - {name: "Wilf Wilson", affiliation: "University of St Andrews", country: "United Kingdom", country_emoji: "🇬🇧", online: false}
 ---
 
 <ol>
@@ -97,6 +100,7 @@ participants:
 
 <!--
 ## Conference photo
+
 <figure>
   <a href="{{ site.baseurl }}/public/conf_photo.jpg">
     <img 
