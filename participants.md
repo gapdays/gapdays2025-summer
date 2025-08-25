@@ -106,9 +106,7 @@ participants:
     />
   </a>
   <figcaption>
-    GAP Days Summer 2025<br/>
-    25-29 August 2025<br/>
-    University of Primorska, Koper, Slovenia
+    Group photo of the participants of GAP Days Summer 2025 in Koper, Slovenia
   </figcaption>
 </figure>
 -->
