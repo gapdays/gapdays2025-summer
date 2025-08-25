@@ -33,7 +33,6 @@ participants:
   - {name: Morgan Rodgers, affiliation: "RPTU Kaiserslautern-Landau University, Germany"}
   - {name: Neda Ahanjideh, affiliation: "Shahrekord University, Iran"}
   - {name: Nora Harrach, affiliation: "Eötvös Loránd University, Hungary"}
-  - {name: Olexandr Konovalov, affiliation: "University of St Andrews, U.K."}
   - {name: Óscar Fernández Ayala, affiliation: "TU Braunschweig, Germany"}
   - {name: Rhys Evans, affiliation: "IMFM, Slovenia"}
   - {name: Russ Woodroofe, affiliation: "University of Primorska, Slovenia"}
