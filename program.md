@@ -66,21 +66,21 @@ The schedule is subject to further changes.
 - **Monday**
   - 9:00 Welcome and opening
   - 9:30 Stand up and technical discussion
-  - 9:45 Minicourse 1: Session 1A - Getting started in GAP [Slides 1](https://www.gapdays.de/gapdays2025-summer/introLecture1.pdf)
+  - 9:45 Minicourse 1: Session 1A - Getting started in GAP [Slides 1]({{ site.baseurl }}/slides/introLecture1.pdf)
   - 10:35 *Coffee break*
-  - 11:00 Minicourse 1: Session 1B - Getting started in GAP / Parallel: working session for developers [Exercises 1](https://www.gapdays.de/gapdays2025-summer/introEx1.pdf)
+  - 11:00 Minicourse 1: Session 1B - Getting started in GAP / Parallel: working session for developers [Exercises 1]({{ site.baseurl }}/slides/introEx1.pdf)
   - 12:00 *Lunch break*
-  - 14:00 Minicourse 1: Session 2A - Programming in GAP: Working on problems from scratch [Slides 2](https://www.gapdays.de/gapdays2025-summer/introLecture2.pdf)
+  - 14:00 Minicourse 1: Session 2A - Programming in GAP: Working on problems from scratch [Slides 2]({{ site.baseurl }}/slides/introLecture2.pdf)
   - 14.50 *Coffee break*
-  - 15:15 Minicourse 1: Session 2B - Programming in GAP: Working on problems from scratch / Parallel: working session for  developers [Exercises 2](https://www.gapdays.de/gapdays2025-summer/introEx2.pdf)
+  - 15:15 Minicourse 1: Session 2B - Programming in GAP: Working on problems from scratch / Parallel: working session for  developers [Exercises 2]({{ site.baseurl }}/slides/introEx2.pdf)
   - 16:15 Discussion
   - 17:00 Stand up: Results from work sessions
 
 - **Tuesday**
   - 9:30 Stand up and technical discussion
-  - 9:45 Minicourse 1: Session 3A - GAP Packages and Libraries: Using existing GAP infrastructure [Slides 3](https://www.gapdays.de/gapdays2025-summer/introLecture3.pdf)
+  - 9:45 Minicourse 1: Session 3A - GAP Packages and Libraries: Using existing GAP infrastructure [Slides 3]({{ site.baseurl }}/slides/introLecture3.pdf)
   - 10:35 *Coffee break*
-  - 11:00 Minicourse 1: Session 3B - GAP Packages and Libraries: Using existing GAP infrastructure / Parallel: working session for developers [Slides 3](https://www.gapdays.de/gapdays2025-summer/introEx3.pdf)
+  - 11:00 Minicourse 1: Session 3B - GAP Packages and Libraries: Using existing GAP infrastructure / Parallel: working session for developers [Slides 3]({{ site.baseurl }}/slides/introEx3.pdf)
   - 12:00 *Lunch break*
   - 14:00 Minicourse 2: Session 1A - What is Digraphs? Overview + capabilities
   - 14.50 *Coffee break*
