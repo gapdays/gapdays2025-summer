@@ -80,7 +80,7 @@ The schedule is subject to further changes.
   - 9:30 Stand up and technical discussion
   - 9:45 Minicourse 1: Session 3A - GAP Packages and Libraries: Using existing GAP infrastructure [Slides 3]({{ site.baseurl }}/slides/introLecture3.pdf)
   - 10:35 *Coffee break*
-  - 11:00 Minicourse 1: Session 3B - GAP Packages and Libraries: Using existing GAP infrastructure / Parallel: working session for developers [Slides 3]({{ site.baseurl }}/slides/introEx3.pdf)
+  - 11:00 Minicourse 1: Session 3B - GAP Packages and Libraries: Using existing GAP infrastructure / Parallel: working session for developers [Exercises 3]({{ site.baseurl }}/slides/introEx3.pdf)
   - 12:00 *Lunch break*
   - 14:00 Minicourse 2: Session 1A - What is Digraphs? Overview + capabilities
   - 14.50 *Coffee break*
