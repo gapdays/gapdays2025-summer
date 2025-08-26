@@ -13,9 +13,15 @@ at the [University of Primorska](https://www.upr.si/).
 
 The meeting takes place in the Faculty of Mathematics, Natural Sciences and Information Technologies (FAMNIT).  The FAMNIT building is at the address Glagoljaška 8, and is in the old town center of Koper.
 
-Lectures and events will be held in the lecture room VP2, located on the first floor.<br>
-Coffee breaks will be held in TBA<br>
-Breakout rooms will be available TBA
+<ul>
+
+ <li>Lectures and events will be held in the lecture room VP2, located on the first floor.</li>
+
+ <li>Coffee breaks will be held in the Avla hall, located on the ground floor</li>
+
+ <li>Breakout rooms will be MP5 and MP6 on Monday/Thursday; MP2 and MP4 on Tuesday/Wednesday/Friday.<br/>  All are located on the second floor.</li>
+ 
+</ul>
 
 Rooms are equipped both with whiteboards, and also with a projector / computer / hdmi connection.  Note that in VP2, the projector screen covers part (indeed, much) of the whiteboard when it is down.  
 
