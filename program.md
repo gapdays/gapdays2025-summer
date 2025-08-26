@@ -82,10 +82,10 @@ The schedule is subject to further changes.
   - 10:35 *Coffee break*
   - 11:00 Minicourse 1: Session 3B - GAP Packages and Libraries: Using existing GAP infrastructure / Parallel: working session for developers [Exercises&nbsp;3]({{ site.baseurl }}/slides/introEx3.pdf)
   - 12:00 *Lunch break*
-  - 14:00 Minicourse 2: Session 1A - What is Digraphs? Overview + capabilities
+  - 14:00 Minicourse 2: Session 1A - What is Digraphs? Overview + capabilities [Slides]({{ site.baseurl }}/slides/digraphsLecture.pdf)
   - 14.50 *Coffee break*
   - 15:15 Minicourse 2: Session 1B - Getting started with Digraphs (exercises) / Parallel: working session for developers
-  - 16:15 Contributed Talks
+  - 16:15 Contributed Talks [Exercises]({{ site.baseurl }}/slides/digraphsEx.pdf)
     - 16:15 Talk: *"Computer assisted proof of the tree module property, using GAP and Clean"* (István Szöllősi)
     - 16:40 Talk: *"OscarAICoder: Turning Mathematical Language into Computation"* (Vinay Wagh)
   - 17:00 Stand up: Results from work sessions
