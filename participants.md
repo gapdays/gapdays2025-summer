@@ -2,7 +2,6 @@
 layout: page
 title: Participants
 participants:
-  - {name: Andoni Zozaya, affiliation: "Public University of Navarra, Spain"}
   - {name: Andrea Švob, affiliation: "University of Rijeka, Croatia"}
   - {name: Antonio Montero, affiliation: "University of Ljubljana, Slovenia"}
   - {name: Bernhard Böhmler, affiliation: "Leibniz University Hannover"}
