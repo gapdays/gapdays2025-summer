@@ -52,11 +52,12 @@ But we are looking for more talks, so please <a href="mailto:{{site.email}}">con
 
 On Thursday, we will have a conference social event. If you would like to participate, please sign-up using this <a href="https://docs.google.com/forms/d/e/1FAIpQLScZrrEhD4DBbUhxspG8PtFeDNDRxuscUccKy83moZ6zojkDhQ/viewform?usp=header">form</a>.
 
-  Event details:
-  
-    - Day: Thursday
-    - Time: 18:30
-    - Place: Foresteria Caffe Bar (Entrance via Tito Trg or Garibaldijeva Ulica)  
+Event details:
+
+  - Day: Thursday
+  - Time: 18:30
+  - Place: Foresteria Caffe Bar (Entrance via Tito Trg or Garibaldijeva Ulica)
+
   
 ## Detailed schedule
 <!-- 
