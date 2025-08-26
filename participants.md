@@ -2,9 +2,7 @@
 layout: page
 title: Participants
 participants:
-  - {name: Andoni Zozaya, affiliation: "Public University of Navarra, Spain"}
   - {name: Andrea Švob, affiliation: "University of Rijeka, Croatia"}
-  - {name: Anton Betten, affiliation: "Kuwait University, Kuwait"}
   - {name: Antonio Montero, affiliation: "University of Ljubljana, Slovenia"}
   - {name: Bernhard Böhmler, affiliation: "Leibniz University Hannover"}
   - {name: Bettina Eick, affiliation: "TU Braunschweig, Germany"}
@@ -16,10 +14,8 @@ participants:
   - {name: George Savvoudis, affiliation: "University of Primorska, Slovenia"}
   - {name: Giusy Monzillo, affiliation: "University of Primorska, Slovenia"}
   - {name: Henrik Schanze, affiliation: "TU Braunschweig, Germany"}
-  - {name: Innocent Opara, affiliation: "Institute of Mathematics, Nigeria"}
   - {name: István Szöllősi, affiliation: "Babeș-Bolyai University, Romania"}
   - {name: James Mitchell, affiliation: "University of St Andrews, U.K."}
-  - {name: Jan De Beule, affiliation: "Vrije Universiteit Brussel, Belgium"}
   - {name: Joseph Edwards, affiliation: "University of St Andrews, U.K."}
   - {name: Leonard Soicher, affiliation: "Queen Mary University of London, U.K."}
   - {name: Leonid Ovchinnikov, affiliation: "University of Primorska, Slovenia"}
@@ -28,20 +24,16 @@ participants:
   - {name: Max Horn, affiliation: "RPTU Kaiserslautern-Landau University, Germany"}
   - {name: Meike Weiß, affiliation: "RWTH Aachen University, Germany"}
   - {name: Michel Lavrauw, affiliation: "University of Primorska, Slovenia"}
-  - {name: Mike Ogiugo, affiliation: "Yaba College of Technology, Nigeria"}
   - {name: Milad Ahanjideh, affiliation: "University of Primorska, Slovenia"}
   - {name: Morgan Rodgers, affiliation: "RPTU Kaiserslautern-Landau University, Germany"}
-  - {name: Neda Ahanjideh, affiliation: "Shahrekord University, Iran"}
   - {name: Nora Harrach, affiliation: "Eötvös Loránd University, Hungary"}
   - {name: Óscar Fernández Ayala, affiliation: "TU Braunschweig, Germany"}
   - {name: Rhys Evans, affiliation: "IMFM, Slovenia"}
   - {name: Russ Woodroofe, affiliation: "University of Primorska, Slovenia"}
   - {name: Sarah Rees, affiliation: "University of Newcastle, U.K."}
-  - {name: Seyyed Ali Mohammadiyeh, affiliation: "Department of Pure Mathematics, Faculty of Mathematical Sciences, University of Kashan, Kashan 87317-53153, I. R. Iran"}
   - {name: Thomas Breuer, affiliation: "RWTH Aachen University, Germany"}
   - {name: Timo Velten, affiliation: "TU Braunschweig, Germany"}
   - {name: Vinay Wagh, affiliation: "IIT Guwahati, India"}
-  - {name: Volkmar Welker, affiliation: "Philipps-Universität Marburg, Germany"}
   - {name: Wilf Wilson}
 ---
 
