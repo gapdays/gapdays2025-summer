@@ -121,7 +121,7 @@ The schedule is subject to further changes.
     - 16:30-17:00 Talk: *"Permutation characters from parabolic subgroups and Green functions"* (Frank Lübeck) ([abstract]({{ site.baseurl }}/abstracts/lubeck))
     - 17:15-17:45 Talk: *"Some history"* (Bettina Eick)
   - 18:00 End of day
-  - 18:30 Social event: Reception
+  - 18:30 Social event: Reception (<a href="https://docs.google.com/forms/d/e/1FAIpQLScZrrEhD4DBbUhxspG8PtFeDNDRxuscUccKy83moZ6zojkDhQ/viewform?usp=header">sign-up form</a>
 
 - **Friday**
   - 9:30 Stand up and technical discussion
