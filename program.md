@@ -50,7 +50,7 @@ But we are looking for more talks, so please <a href="mailto:{{site.email}}">con
 
 ## Reception
 
-On Thursday, we will have a conference social event. If you would like to participate, please sign-up using this <a href="https://docs.google.com/forms/d/e/1FAIpQLScZrrEhD4DBbUhxspG8PtFeDNDRxuscUccKy83moZ6zojkDhQ/viewform?usp=header">form</a>.
+On Thursday, we will hold a social event. If you would like to participate, please sign-up using this <a href="https://docs.google.com/forms/d/e/1FAIpQLScZrrEhD4DBbUhxspG8PtFeDNDRxuscUccKy83moZ6zojkDhQ/viewform?usp=header">form</a>.
 
 Event details:
 
