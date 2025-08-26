@@ -56,7 +56,7 @@ Event details:
 
   - Day: Thursday
   - Time: 18:30
-  - Place: Foresteria Caffe Bar (Entrance via Tito Trg or Garibaldijeva Ulica)
+  - Place: <a href="https://maps.app.goo.gl/vkn7Ht1bwQ2vpjAZ7">Foresteria Caffe Bar</a> (Entrance via Tito Trg or Garibaldijeva Ulica)
 
   
 ## Detailed schedule
