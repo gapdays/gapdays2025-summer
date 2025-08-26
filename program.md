@@ -52,7 +52,7 @@ But we are looking for more talks, so please <a href="mailto:{{site.email}}">con
 
 On Thursday, we will have a conference social event. If you would like to participate, please sign-up using this <a href="https://docs.google.com/forms/d/e/1FAIpQLScZrrEhD4DBbUhxspG8PtFeDNDRxuscUccKy83moZ6zojkDhQ/viewform?usp=header">form</a>.
 
-Event details:  
+  Event details:  
     - Day: Thursday  
     - Time: 18:30  
     - Place: <a href="https://maps.app.goo.gl/vkn7Ht1bwQ2vpjAZ7">Foresteria Caffe Bar</a> (Entrance via Tito Trg or Garibaldijeva Ulica)  
@@ -92,8 +92,8 @@ The schedule is subject to further changes.
   - 12:00 *Lunch break*
   - 14:00 Minicourse 2: Session 1A - What is Digraphs? Overview + capabilities [Slides]({{ site.baseurl }}/slides/digraphsLecture.pdf)
   - 14.50 *Coffee break*
-  - 15:15 Minicourse 2: Session 1B - Getting started with Digraphs (exercises) / Parallel: working session for developers
-  - 16:15 Contributed Talks [Exercises]({{ site.baseurl }}/slides/digraphsEx.pdf)
+  - 15:15 Minicourse 2: Session 1B - Getting started with Digraphs (exercises) / Parallel: working session for developers [Exercises]({{ site.baseurl }}/slides/digraphsEx.pdf)
+  - 16:15 Contributed Talks 
     - 16:15 Talk: *"Computer assisted proof of the tree module property, using GAP and Clean"* (István Szöllősi)
     - 16:40 Talk: *"OscarAICoder: Turning Mathematical Language into Computation"* (Vinay Wagh)
   - 17:00 Stand up: Results from work sessions
