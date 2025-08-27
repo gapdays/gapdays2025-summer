@@ -116,8 +116,7 @@ The schedule is subject to further changes.
 
 - **Thursday**
   - 9:30 Stand up and technical discussion
-  - 9:45 Contributed talks
-    - 9:45 Talk: *"TBA"* (Seyyed Ali Mohammadiyeh) 
+  - 9:45 Extended discussion
   - 10:35 *Coffee break*
   - 11:00 Working session for developers
   - 11:30 *Lunch break*
