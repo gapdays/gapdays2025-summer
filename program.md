@@ -134,7 +134,7 @@ The schedule is subject to further changes.
 
 - **Friday**
   - 9:30 Stand up and technical discussion
-  - 9:45 Contributed talks
+  - 9:45 Working session for developers
   - 10:35 *Coffee break*
   - 11:00 Working session for developers
   - 12:00 *Lunch break*
