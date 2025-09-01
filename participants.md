@@ -68,7 +68,12 @@ participants:
 
 {% endif %}
 
-<!--
-## Conference photo
-[<img src="{{ site.baseurl }}/public/conf_photo.jpg" />]({{ site.baseurl }}/public/conf_photo.jpg)
--->
+
+## Photos
+[<img src="{{ site.baseurl }}/public/Leonard_Soicher.jpg" />]({{ site.baseurl }}/public/Leonard_Soicher.jpg)
+
+[<img src="{{ site.baseurl }}/public/dinner_1.jpg" />]({{ site.baseurl }}/public/dinner_1.jpg)
+
+[<img src="{{ site.baseurl }}/public/dinner_2.jpg" />]({{ site.baseurl }}/public/dinner_2.jpg)
+
+
