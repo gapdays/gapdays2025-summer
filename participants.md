@@ -70,6 +70,9 @@ participants:
 
 
 ## Photos
+[<img src="{{ site.baseurl }}/public/conference_photo.jpg" />]({{ site.baseurl }}/public/conference_photo.jpg)
+
+
 [<img src="{{ site.baseurl }}/public/Leonard_Soicher.jpg" />]({{ site.baseurl }}/public/Leonard_Soicher.jpg)
 
 [<img src="{{ site.baseurl }}/public/dinner_1.jpg" />]({{ site.baseurl }}/public/dinner_1.jpg)
